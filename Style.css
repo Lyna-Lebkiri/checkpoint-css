@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#banner{
+    height: 80px;
+}
+#navbar{
+    width: 100%;
+    height: 60px;
+    background-color :purple
+}
+#navbar a {
+text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: .3;
+    padding-right: 100px;
+    padding-left: 80px;
+}
+#navbar a:hover,
+#navbar a.active{
+    color: navy;}
+.center {
+    text-align: center;
+    background-color:  #ad64a8 ;
+}
+#Tableau {
+    text-align: center;
+    object-position: center;
+}
+#Deff {
+    font-style: oblique;
+    color: royalblue;
+    font-size: xx-large;
+}
+#sense {
+    font-style: oblique;
+    color:royalblue;
+    font-size: xx-large;
+}
+#final {
+    font-style: oblique;
+    color:royalblue;
+    font-size: xx-large;
+}
+#aquoi {
+    font-style: oblique;
+    font-size: xx-large;
+}
+
+#regle{
+    font-style: oblique;
+    color: royalblue;
+    font-size: xx-large;
+    
+}
+#divv{
+    font-style: oblique;
+    color: royalblue;
+    font-size: xx-large;
+}
+#Foot {
+    width: 100%;
+    height: 75px;
+    background-color :purple
+}
+.fit input {
+align-items:center;
+}
+
+
